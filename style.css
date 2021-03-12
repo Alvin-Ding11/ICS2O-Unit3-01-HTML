@@ -1,10 +1,12 @@
 .header {
-  color:crimson;
+  color:crimson; 
 }
+
 .para {
-  font-size:175%;
+  font-size:175%; 
   font-family: 'Times New Roman', Times, serif;
 }
+
 #para2 {
   color:aqua;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
