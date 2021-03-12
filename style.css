@@ -11,3 +11,16 @@
   color: aqua;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+.ul {
+  list-style-type: square;
+  list-style-position: outside;
+  margin: 3px;
+  background: #3399ff;
+}
+
+.table, th, td {
+  border: 3px solid #3399ff;
+  border-collapse: collapse;
+  width: 100%;
+}
